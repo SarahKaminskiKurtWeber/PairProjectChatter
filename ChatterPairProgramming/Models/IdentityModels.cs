@@ -29,5 +29,21 @@ namespace ChatterPairProgramming.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<ChatterPairProgramming.Models.UserInfo> UserInfoes { get; set; }
+    }
+    //Tracks followers and following for the User
+    public class MyEntities : DbContext
+    {
+        public DbSet<UserInfo> Users { get; set; }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Follower>()
+                .HasMany(x => x.Followers).WithMany(x => x.Following)
+                .Map(x => x.ToTable("Followers")
+                    .MapLeftKey("UserId")
+                    .MapRightKey("FollowerId"));
+        }
     }
 }

@@ -132,3 +132,7 @@ c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ChatterPairProgrammin
 c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ChatterPairProgramming\ChatterPairProgramming\obj\Debug\ChatterPairProgramming.csprojResolveAssemblyReference.cache
 c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ChatterPairProgramming\ChatterPairProgramming\obj\Debug\ChatterPairProgramming.dll
 c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ChatterPairProgramming\ChatterPairProgramming\obj\Debug\ChatterPairProgramming.pdb
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ChatterPairProgramming\ChatterPairProgramming\obj\Debug\ChatterPairProgramming.Migrations.InitialCreate.resources
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ChatterPairProgramming\ChatterPairProgramming\obj\Debug\ChatterPairProgramming.csproj.GenerateResource.Cache
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ChatterPairProgramming\ChatterPairProgramming\obj\Debug\ChatterPairProgramming.Migrations.UserInfor.resources
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ChatterPairProgramming\ChatterPairProgramming\obj\Debug\ChatterPairProgramming.Migrations.UpdateUserInfoTBL.resources
